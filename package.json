@@ -1,0 +1,15 @@
+{
+  "name": "ui-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hcmuafnvt/ui-components.git",
+  "author": "Toan NGUYEN <toan.nguyen@s60.com.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-sass": "^2.3.2",
+    "load-gulp-tasks": "^0.1.0"
+  },
+  "dependencies": {}
+}
